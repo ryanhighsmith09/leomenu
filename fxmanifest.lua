@@ -1,9 +1,11 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Custom LEO Core'
-description 'Standalone LEO System with ox_lib'
+author 'YourName'
+description 'Standalone LEO Core System (ox_lib)'
 version '1.0.0'
+
+lua54 'yes'
 
 shared_scripts {
     '@ox_lib/init.lua',
