@@ -1,4 +1,0 @@
--- client
-RegisterCommand(Config.Duty.command, function()
-    TriggerServerEvent('leo:toggleDuty')
-end)
